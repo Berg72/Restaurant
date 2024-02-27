@@ -17,6 +17,7 @@
 		D9C4AD9F2B852BA80049972D /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C4AD9C2B852BA80049972D /* DataService.swift */; };
 		D9C4ADA02B852BA80049972D /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C4AD9D2B852BA80049972D /* MenuListRow.swift */; };
 		D9C4ADA12B852BA80049972D /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C4AD9E2B852BA80049972D /* MenuItem.swift */; };
+		D9C4ADF32B8E8C260049972D /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C4ADF22B8E8C260049972D /* PhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		D9C4AD9C2B852BA80049972D /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		D9C4AD9D2B852BA80049972D /* MenuListRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 		D9C4AD9E2B852BA80049972D /* MenuItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		D9C4ADF22B8E8C260049972D /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				D9C4AD962B852A3D0049972D /* MenuView.swift */,
 				D9C4AD982B852A490049972D /* AboutView.swift */,
 				D9C4AD9A2B852A520049972D /* GalleryView.swift */,
+				D9C4ADF22B8E8C260049972D /* PhotoView.swift */,
 				D9C4AD8E2B8529B80049972D /* Preview Content */,
 			);
 			path = Restaurant;
@@ -158,6 +161,7 @@
 				D9C4ADA02B852BA80049972D /* MenuListRow.swift in Sources */,
 				D9C4AD992B852A490049972D /* AboutView.swift in Sources */,
 				D9C4AD8B2B8529B20049972D /* MainView.swift in Sources */,
+				D9C4ADF32B8E8C260049972D /* PhotoView.swift in Sources */,
 				D9C4AD972B852A3D0049972D /* MenuView.swift in Sources */,
 				D9C4AD9F2B852BA80049972D /* DataService.swift in Sources */,
 				D9C4ADA12B852BA80049972D /* MenuItem.swift in Sources */,
